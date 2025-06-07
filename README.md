@@ -1,0 +1,2 @@
+# PrivDiff
+macOS Privilege Recon
