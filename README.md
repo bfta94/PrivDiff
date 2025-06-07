@@ -4,12 +4,19 @@ PrivDiff is a privilege and configuration recon tool for macOS systems designed 
 
 ## Features
  Detect writable SUID binaries
+  
  Analyze user crontabs for suspicious jobs
+  
  Check launch agents and daemons for anomalies
+  
  Export reports in .JSON, .TXT, .CSV
+  
  External YAML config
+  
  Trace logging with base64 encoded dumps
+  
  Multi-threaded scanning with timing.
+  
 
 ## Installation
 ```bash
